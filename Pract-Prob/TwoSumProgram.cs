@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace Pract_Prob
 {
-    public class TwoSum
+    public class TwoSumProgram
     {
-        public int[] TwoSums(int[] nums, int target)
+        public int[] TwoSum(int[] nums, int target)
         {
             int[] output = new int[2];
             for (int i = 0; i <= nums.Length - 1; i++)
@@ -34,8 +34,8 @@ namespace Pract_Prob
         {
             int[] numbers = {3,2,4};
             int tag = 6;
-            TwoSum twosumobj = new TwoSum();
-            int[] output = twosumobj.TwoSums(numbers, tag);
+            TwoSumProgram twosumobj = new TwoSumProgram();
+            int[] output = twosumobj.TwoSum(numbers, tag);
 
             Console.WriteLine(output[0]+" "+ output[1]);
         }
