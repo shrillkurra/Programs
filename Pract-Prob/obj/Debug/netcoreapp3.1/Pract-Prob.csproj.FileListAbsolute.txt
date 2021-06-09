@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.exe
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.deps.json
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.dll
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\bin\Debug\netcoreapp3.1\Pract-Prob.pdb
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.dll
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.pdb
+C:\Users\Administrator\source\repos\Pract-Prob\Pract-Prob\obj\Debug\netcoreapp3.1\Pract-Prob.genruntimeconfig.cache

@@ -1,9 +1,23 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Pract_Prob</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AddTwoNumbersProblem.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="ReverseStringProblem.cs" />
+    <Compile Remove="TwoSum.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AddTwoNumbersProblem.cs" />
+    <None Include="Program.cs" />
+    <None Include="ReverseStringProblem.cs" />
+    <None Include="TwoSum.cs" />
+  </ItemGroup>
 
 </Project>
