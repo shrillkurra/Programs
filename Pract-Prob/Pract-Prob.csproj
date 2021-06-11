@@ -8,16 +8,24 @@
 
   <ItemGroup>
     <Compile Remove="AddTwoNumbersProblem.cs" />
+    <Compile Remove="ContainsDuplicateProgram.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RemoveDuplicatesProgram.cs" />
     <Compile Remove="ReverseStringProblem.cs" />
+    <Compile Remove="RotateArrayProgram.cs" />
+    <Compile Remove="StocksProgram.cs" />
+    <Compile Remove="TwoSumProgram.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="AddTwoNumbersProblem.cs" />
+    <None Include="ContainsDuplicateProgram.cs" />
     <None Include="Program.cs" />
     <None Include="RemoveDuplicatesProgram.cs" />
     <None Include="ReverseStringProblem.cs" />
+    <None Include="RotateArrayProgram.cs" />
+    <None Include="StocksProgram.cs" />
+    <None Include="TwoSumProgram.cs" />
   </ItemGroup>
 
 </Project>
