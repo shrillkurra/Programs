@@ -24,7 +24,8 @@ namespace Pract_Prob
             }
             for(int i=0; i<nums.Length;i++)
             {
-                if (numberhash.ContainsValue(1))
+                int one = 1;
+                if ((int)numberhash[nums[i]] == one)
                 {
                     return nums[i];
                 }
@@ -34,7 +35,7 @@ namespace Pract_Prob
         }
         static void Main(string[] args)
         {
-            int[] nums = new int[]{ 4,1,2,1,2};
+            int[] nums = new int[]{2,2,1};
             SingleNumberProgram sn = new SingleNumberProgram();
             int result = sn.SingleNumber(nums);
             Console.WriteLine(result);

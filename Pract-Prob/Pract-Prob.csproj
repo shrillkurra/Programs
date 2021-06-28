@@ -9,23 +9,29 @@
   <ItemGroup>
     <Compile Remove="AddTwoNumbersProblem.cs" />
     <Compile Remove="ContainsDuplicateProgram.cs" />
+    <Compile Remove="MoveZerosProgram.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="RemoveDuplicatesProgram.cs" />
     <Compile Remove="ReverseStringProblem.cs" />
     <Compile Remove="RotateArrayProgram.cs" />
+    <Compile Remove="SingleNumberProgram.cs" />
     <Compile Remove="StocksProgram.cs" />
     <Compile Remove="TwoSumProgram.cs" />
+    <Compile Remove="ValidPalindromeProgram.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="AddTwoNumbersProblem.cs" />
     <None Include="ContainsDuplicateProgram.cs" />
+    <None Include="MoveZerosProgram.cs" />
     <None Include="Program.cs" />
     <None Include="RemoveDuplicatesProgram.cs" />
     <None Include="ReverseStringProblem.cs" />
     <None Include="RotateArrayProgram.cs" />
+    <None Include="SingleNumberProgram.cs" />
     <None Include="StocksProgram.cs" />
     <None Include="TwoSumProgram.cs" />
+    <None Include="ValidPalindromeProgram.cs" />
   </ItemGroup>
 
 </Project>
