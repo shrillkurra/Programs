@@ -6,6 +6,7 @@ namespace Pract_Prob
 {
     class ReverseIntegerProgram
     {
+        //This program wil not work when there is a overflow of integer. It will work only for small numbers
         public int Reverse(int x)
         {
             int n = x;

@@ -25,11 +25,6 @@ namespace Pract_Prob
             }
             return false;
         }
-        static void Main(string[] args)
-        {
-            ValidPalindromeProgram vp = new ValidPalindromeProgram();
-            bool result = vp.IsPalindrome("0P");
-            Console.WriteLine(result);
-        }
+        
     }
 }

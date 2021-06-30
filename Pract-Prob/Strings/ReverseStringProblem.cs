@@ -21,12 +21,6 @@ namespace Pract_Prob
             }
         }
 
-        static void Main(string[] args)
-        {
-            ReverseStringProblem re = new ReverseStringProblem();
-            char[] s = new char[] { 'h', 'e', 'l','l','o'};
-            re.ReverseString(s);
-        }
 
     }
 }
